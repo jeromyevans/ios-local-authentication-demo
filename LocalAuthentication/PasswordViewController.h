@@ -2,7 +2,7 @@
 //  PasswordViewController.h
 //  LocalAuthentication
 //
-//  Created by Jeromy Evans (personal) on 27/05/2015.
+//  Created by Jeromy Evans on 27/05/2015.
 //  Copyright (c) 2015 Jeromy Evans. All rights reserved.
 //
 
