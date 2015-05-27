@@ -20,6 +20,7 @@
 		38C8DA1B1B0AA3B00074F566 /* A0SimpleKeychain.m in Sources */ = {isa = PBXBuildFile; fileRef = 38C8DA181B0AA3B00074F566 /* A0SimpleKeychain.m */; };
 		7A9CEC861B15641F001D695D /* PasswordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A9CEC851B15641F001D695D /* PasswordViewController.m */; };
 		7A9CEC8B1B159288001D695D /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 7A9CEC8A1B159288001D695D /* README.md */; };
+		7A9CEC8D1B15BE95001D695D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7A9CEC8C1B15BE95001D695D /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		7A9CEC841B15641F001D695D /* PasswordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasswordViewController.h; sourceTree = "<group>"; };
 		7A9CEC851B15641F001D695D /* PasswordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PasswordViewController.m; sourceTree = "<group>"; };
 		7A9CEC8A1B159288001D695D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		7A9CEC8C1B15BE95001D695D /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		38C8D9D61B0A95CD0074F566 = {
 			isa = PBXGroup;
 			children = (
+				7A9CEC8C1B15BE95001D695D /* .gitignore */,
 				7A9CEC8A1B159288001D695D /* README.md */,
 				38C8DA161B0A9E730074F566 /* PrefixHeader.pch */,
 				38C8D9E11B0A95CD0074F566 /* LocalAuthentication */,
@@ -247,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A9CEC8D1B15BE95001D695D /* .gitignore in Resources */,
 				38C8D9EE1B0A95CD0074F566 /* Main.storyboard in Resources */,
 				38C8D9F31B0A95CD0074F566 /* LaunchScreen.xib in Resources */,
 				38C8D9F01B0A95CD0074F566 /* Images.xcassets in Resources */,
